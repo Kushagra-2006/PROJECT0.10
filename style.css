@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap');
+body{
+    font-family:'poppins', sans-serif;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    #main {
+    background-color: blueviolet;
+    display: flex;
+    justify-content: flex-end;
+    }
+    .main-container-1 ul {
+    display: flex;
+    margin: 17px 45px;
+    }
+    .main-container-1 ul li {
+    list-style: none;
+    padding: 0px 30px 0px 0px;
+    }
+    .main-container-1 ul li a {
+        text-decoration: none;
+        color: white;
+        }
+        .main-container-1 ul li a:hover {
+        border-bottom: white 2px solid;
+        }
+        .main-container-2 {
+        padding: 16px 30px 18px 0px;
+        }
+        input {
+        border: 2px solid blueviolet;
+        border-radius: 8px;
+        font-size: 17px;
+        outline: none;
+        padding: 3px;
+        }
+        button {
+            border: 2px solid blueviolet;
+            border-radius: 8px;
+            padding: 5px;
+            color: blueviolet;
+            }
+            button:hover{
+            background-color: rgba(255, 255, 255, 0.644);
+            color: white;
+            }
+            .cba{
+                font-size: 60px;
+                margin-left: 15%;
+                margin-top: 10%;
+                margin-bottom: 100px;
+                color:whitesmoke;
+                background-color: green;
+                border-radius: 50px;
+                padding: 15px;
+                position: relative;bottom:100px;
+                border: 4px solid black;
+            }
+            th{
+                border:5px solid rgb(2, 21, 105);
+                background-color:rgba(224, 94, 94, 0.753);
+                text-align: center;
+                padding: 10px;
+                margin: 10%;
+                border-radius: 10%;
+            }
+            table{
+                margin-left: 400px;
+                margin-top: 1%;
+                margin-bottom: 1%;
+                border-radius: 10%;
+            }
+            .OSM{
+                color:rgb(0, 0, 0);
+                background-color: darkorange;
+            }
+            .sub{
+                text-align: center;
+                position: relative;bottom:250px;
+            }
+            .lms{
+                position: relative;bottom:150px;
+                margin-left: 60px;
+                margin-right: 60px;
+                border:5px solid black;
+            }
+            .sms{
+                text-align: center;
+                position: relative;bottom:250px; 
+            }
+            .lol{
+                position: relative;bottom :60px;
+                margin-left: 80px;
+                margin-right: 60px;
+                border:4px solid black;
+            }
+            .sony{
+                margin-left: 25%;
+                border:5px solid black;
+            }
+            .Ram{
+                margin-left: 25%;
+                border:4px solid black;
+            }
+            .pop{
+                margin-left: 90%;
+                position: sticky;top:90%;
+                padding: 6px;
+                border-radius: 17px;
+                background-color: darkblue;
+                color:cornsilk;
+                border: 5px solid darkblue;
+                font-size: 12px;
+            }
+            .loi{
+                text-align: center;
+                background-color: darkorange;
+
+            }
+            .opo{
+                border-radius: 19px;
+                background-color: darkblue;
+                border: 5px solid darkblue;
+                font-size: 15px;
+                color:white;
+                margin-left: 500px;
+            }
+            .ipl{
+                font-size:25px;
+                color:black;
+                background-color: rgb(247, 197, 197);
+                text-align: center;
+            }
+            .opl{
+                background-color:rgb(247, 197, 197);
+                text-align: end;
+                margin-bottom: 20px;
+            }
+            .cdf{
+                margin-right: 90%;
+                position:sticky;top:90%;
+                margin-left: 1%;
+                padding: 6px;
+                border-radius: 19px;
+                background-color: darkblue;
+                color:cornsilk;
+                border: 5px solid darkblue;
+                font-size: 14px;    
+            }
+            
